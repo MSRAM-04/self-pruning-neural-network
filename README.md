@@ -1,5 +1,3 @@
-TO PREVIEW THIS FILE USE: CTRL + SHIFT + V
-
 # Self-Pruning Neural Network (CIFAR-10)
 
 ## Overview
